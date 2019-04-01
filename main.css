@@ -1,0 +1,33 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}   
+.section1{
+    background: url(../img/Blog-on-Storyboard-Process-1.png);
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.Judul1{
+    font-family: arial;
+    font-weight: 800;
+    font-size: 30px;
+    color: black;   
+}
+.sub-Judul1{
+    font-family: arial;
+    font-weight: 600;
+    font-size: 40px;
+    color: black;  
+    
+}
+.section2{
+    padding:100px 0px;
+    background: #ccc;
+}
+.col-kiri{
+    background: white;
+}
+.col-kanan{
+    background: black;
+}
